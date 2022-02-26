@@ -1,4 +1,4 @@
-# My React Modal practise project
+# My React Modal learning project
 
 ## Main outcome
 Have a fully accessible and well tested modal.
